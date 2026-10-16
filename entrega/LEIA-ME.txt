@@ -11,3 +11,5 @@ O arquivo antigo de pré-corte não é esta entrega.
 
 Arquivo disponibilizado no repositório GitHub carloshenriquepantoja-bot/meu-video por solicitação do usuário.
 Projeto editável: /workspace/meu-video/agro-reels
+
+ÁUDIO CORRIGIDO: faixa reconstruída da gravação original, com aceleração que preserva o tom (atempo), sem filtro de voz ou normalização dinâmica. A versão anterior elevava indevidamente o tom.

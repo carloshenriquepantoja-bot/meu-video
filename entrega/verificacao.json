@@ -17,20 +17,20 @@
       {
         "codec_name": "aac",
         "r_frame_rate": "0/0",
-        "nb_frames": "8128"
+        "nb_frames": "7468"
       }
     ],
     "format": {
-      "duration": "173.400000",
-      "size": "69994584"
+      "duration": "173.366667",
+      "size": "70000812"
     }
   },
   "full_decode_exit_code": 0,
   "decoded_frames": 5201,
   "detected_black_intervals": 0,
-  "integrated_loudness_LUFS": -15.95,
-  "true_peak_dBTP": -1.39,
-  "sha256": "5b298dc79861237c2f89ce8dc7c5a77296bd530a8c09e407051bc69976415524",
+  "integrated_loudness_LUFS": -20.57,
+  "true_peak_dBTP": -2.7,
+  "sha256": "63cd9e59250b93011144b6450728a4cc381278a6efc2760208ff094b81aa5767",
   "typecheck": "passed",
   "visual_samples": "hook, possession, deadlines, notary, technical proof, ITR, CTA, Brazilian photos and corrected tail inspected",
   "sample_sync_start": {
@@ -48,5 +48,12 @@
     "scope": "ASR timing estimate; not a full manual listening review"
   },
   "pending_requirement": "User-supplied logo; not applied",
-  "external_uploads": "None; user requested files remain in this environment"
+  "external_uploads": "Uploaded to GitHub with user authorization",
+  "voice_correction": {
+    "method": "paired voiced windows, autocorrelation fundamental-frequency estimate",
+    "windows": 67,
+    "median_pitch_ratio_corrected_original": 1.0,
+    "previous_pitch_ratio": 1.0796460176991152,
+    "processing": "Original source cuts; FFmpeg atempo=1.08; no highpass, loudness normalization or voice synthesis."
+  }
 }

@@ -1,0 +1,13 @@
+VÍDEO EDITADO — USUCAPIÃO RURAL
+
+Arquivo: video-editado-sem-logo.mp4
+1080×1920, 30 fps, duração 2min53s, aproximadamente 70 MB.
+
+Inclui cortes de pausas/erro, ritmo acelerado, título animado, legendas com destaque por palavra, gráficos, tela dividida e imagens brasileiras com créditos.
+
+PENDÊNCIA: aplicação da logotipo original, ainda não fornecida. O nome do arquivo indica essa ausência para não confundir esta versão com o cumprimento integral da identidade visual solicitada.
+
+O arquivo antigo de pré-corte não é esta entrega.
+
+Arquivo disponibilizado no repositório GitHub carloshenriquepantoja-bot/meu-video por solicitação do usuário.
+Projeto editável: /workspace/meu-video/agro-reels

@@ -1,0 +1,52 @@
+{
+  "file": "video-editado-sem-logo.mp4",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5201",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0",
+        "nb_frames": "8128"
+      }
+    ],
+    "format": {
+      "duration": "173.400000",
+      "size": "69994584"
+    }
+  },
+  "full_decode_exit_code": 0,
+  "decoded_frames": 5201,
+  "detected_black_intervals": 0,
+  "integrated_loudness_LUFS": -15.95,
+  "true_peak_dBTP": -1.39,
+  "sha256": "5b298dc79861237c2f89ce8dc7c5a77296bd530a8c09e407051bc69976415524",
+  "typecheck": "passed",
+  "visual_samples": "hook, possession, deadlines, notary, technical proof, ITR, CTA, Brazilian photos and corrected tail inspected",
+  "sample_sync_start": {
+    "sample": "first 4 seconds, rendered audio",
+    "matched_words": 12,
+    "median_onset_difference_ms": 5.555555555555369,
+    "maximum_onset_difference_ms": 18.518518518518157,
+    "scope": "ASR timing estimate; not a full manual listening review"
+  },
+  "sample_sync_end": {
+    "sample": "last 4 seconds, rendered audio",
+    "matched_words": 8,
+    "median_onset_difference_ms": 4.814660493823397,
+    "maximum_onset_difference_ms": 67.90123456790981,
+    "scope": "ASR timing estimate; not a full manual listening review"
+  },
+  "pending_requirement": "User-supplied logo; not applied",
+  "external_uploads": "None; user requested files remain in this environment"
+}

@@ -30,3 +30,7 @@ B l a c k M a g i c
 - Arquivo: https://upload.wikimedia.org/wikipedia/commons/2/2d/Cultivated_land_of_Recife%2C_Brazil.jpg
 - Descrição da fonte: Cultivated land of Recife, Brazil
 
+
+## Identidade e acabamento
+
+Marca Mestre Fundiário fornecida pelo usuário e preparada para aplicação como marca-d’água. A fotografia `campo.jpg` (Wilfredor, CC0, Brasil) também é usada como fundo desfocado do apresentador. As curvas topográficas decorativas, cartões, legendas e animações foram criados no projeto e não representam um levantamento geográfico de imóvel específico.

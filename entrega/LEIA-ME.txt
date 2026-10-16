@@ -1,15 +1,15 @@
-VÍDEO EDITADO — USUCAPIÃO RURAL
+VÍDEO FINAL — MESTRE FUNDIÁRIO
+Apresentador: Carlos Henrique Pantoja
 
-Arquivo: video-editado-sem-logo.mp4
-1080×1920, 30 fps, duração 2min53s, aproximadamente 70 MB.
+Arquivo atual: video-editado-final.mp4
+Formato: 1080×1920, 30 fps, duração 2min53s, aproximadamente 70 MB.
 
-Inclui cortes de pausas/erro, ritmo acelerado, título animado, legendas com destaque por palavra, gráficos, tela dividida e imagens brasileiras com créditos.
+Inclui marca Mestre Fundiário, nome do apresentador, tratamento do ambiente com fundo rural desfocado, variação suave de enquadramento, textura topográfica animada, referências laterais preservadas em tons claros/dourados, imagens brasileiras, cartões de frases-chave e legendas dinâmicas.
 
-PENDÊNCIA: aplicação da logotipo original, ainda não fornecida. O nome do arquivo indica essa ausência para não confundir esta versão com o cumprimento integral da identidade visual solicitada.
+A voz é a mesma faixa corrigida da versão anterior, copiada sem recodificação. Não foi aplicada voz sintética nem novo filtro de voz. A alteração indevida do tom da primeira exportação permanece corrigida.
 
-O arquivo antigo de pré-corte não é esta entrega.
+A montagem usa imagens de cobertura e cartões para reduzir a percepção de leitura em câmera. Não foi realizada alteração sintética do olhar ou do rosto.
 
-Arquivo disponibilizado no repositório GitHub carloshenriquepantoja-bot/meu-video por solicitação do usuário.
-Projeto editável: /workspace/meu-video/agro-reels
+Para baixar pelo GitHub: abra a página inicial do repositório e clique em CLIQUE AQUI PARA BAIXAR O MP4. Se necessário, entre na sua conta e consulte a lista de Downloads do navegador.
 
-ÁUDIO CORRIGIDO: faixa reconstruída da gravação original, com aceleração que preserva o tom (atempo), sem filtro de voz ou normalização dinâmica. A versão anterior elevava indevidamente o tom.
+As versões anteriores permanecem disponíveis no histórico do Git. O projeto editável e os originais permanecem no ambiente, sem envio ao GitHub.
